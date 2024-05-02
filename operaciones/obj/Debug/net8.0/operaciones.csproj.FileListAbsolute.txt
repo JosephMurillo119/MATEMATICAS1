@@ -1,0 +1,11 @@
+C:\Users\muril\Desktop\MATEMATICAS\operaciones\bin\Debug\net8.0\operaciones.deps.json
+C:\Users\muril\Desktop\MATEMATICAS\operaciones\bin\Debug\net8.0\operaciones.dll
+C:\Users\muril\Desktop\MATEMATICAS\operaciones\bin\Debug\net8.0\operaciones.pdb
+C:\Users\muril\Desktop\MATEMATICAS\operaciones\obj\Debug\net8.0\operaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muril\Desktop\MATEMATICAS\operaciones\obj\Debug\net8.0\operaciones.AssemblyInfoInputs.cache
+C:\Users\muril\Desktop\MATEMATICAS\operaciones\obj\Debug\net8.0\operaciones.AssemblyInfo.cs
+C:\Users\muril\Desktop\MATEMATICAS\operaciones\obj\Debug\net8.0\operaciones.csproj.CoreCompileInputs.cache
+C:\Users\muril\Desktop\MATEMATICAS\operaciones\obj\Debug\net8.0\operaciones.dll
+C:\Users\muril\Desktop\MATEMATICAS\operaciones\obj\Debug\net8.0\refint\operaciones.dll
+C:\Users\muril\Desktop\MATEMATICAS\operaciones\obj\Debug\net8.0\operaciones.pdb
+C:\Users\muril\Desktop\MATEMATICAS\operaciones\obj\Debug\net8.0\ref\operaciones.dll
